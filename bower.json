@@ -1,0 +1,19 @@
+{
+  "name": "test-demo2",
+  "homepage": "https://github.com/sunil-digicorp/test-demo2.git",
+  "version":"0.0.3",
+  "authors": [
+    "Sunil Patel"
+  ],
+  "description": "\"test Demo\"",
+  "main": "bower.json",
+  "keywords": [
+    "test",
+    "demo"
+  ],
+  "license": "MIT",
+  "ignore": [
+   "*",
+   "!components/data-table/*"
+  ]
+}
